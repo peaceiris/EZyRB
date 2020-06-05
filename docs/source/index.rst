@@ -8,6 +8,7 @@ Welcome to EZyRB's documentation!
 
 Easy Reduced Basis method.
 
+test by peaceiris
 
 Description
 ^^^^^^^^^^^^
